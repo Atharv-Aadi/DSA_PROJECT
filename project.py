@@ -3,7 +3,7 @@ from tkinter import messagebox, simpledialog
 import json
 import heapq
 
-MAX = 20
+MAX = 200
 
 class GraphApp:
     def __init__(self, root):
